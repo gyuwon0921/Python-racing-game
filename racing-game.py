@@ -1,6 +1,3 @@
-#Skeleton Code
-
-
 import random
 
 class Character:
